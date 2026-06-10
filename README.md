@@ -13,20 +13,14 @@
 ## 🧭 Who I Am
 
 - 🧑‍💻 Senior Product Manager — Microsoft Security Engineering  
-- 🔐 Focus: **Identity, Access, and Zero Trust Platforms**  
-- ☁️ Background: **Infrastructure → Cloud → Identity → Product**  
+- 🔐 Focus: **Identity, Data Security and Zero Trust Platforms**   
 - 📍 Sydney, Australia  
-
-> 20+ years designing, breaking, and rebuilding enterprise identity systems — now shaping them at scale. :
-
-
 
 ## 🏢 Current Role
 
 **Senior Program Manager / Product Manager**  
-Microsoft — Identity & Network Access Engineering  
-📅 Aug 2021 – Present  
+Microsoft — Customer Exprience Engineering  
+  
 
 - Building and evolving Microsoft security and identity platforms  
-- Driving product strategy for identity and access services  
 - Working across engineering teams to deliver secure enterprise capabilities  
